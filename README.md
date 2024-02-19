@@ -1,6 +1,5 @@
 # Aadhaar Voting
-Aadhaar Based voting system using blockchain technology
-Project implemented as part of Rajasthan Hackathron
+Aadhaar Based voting system using blockchain technology.
 
 ## Description
 
@@ -122,10 +121,6 @@ user interface and high security.
 
 ## Authors
 
-* **Sanat Taori**
-* **Akshay Motghare**
-* **Mandar Patil** 
-* **Aniket Narkhede**
 
 ## License
 
